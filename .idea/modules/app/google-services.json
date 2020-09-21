@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "249139847120",
+    "firebase_url": "https://laktose-d9e56.firebaseio.com",
+    "project_id": "laktose-d9e56",
+    "storage_bucket": "laktose-d9e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249139847120:android:3bbb7443eb1f23fa7a23d5",
+        "android_client_info": {
+          "package_name": "io.github.akisan98.laktose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4I0t_TfE3Hhmsro3hqPc1Eez11tEfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249139847120-mj5bthvihu51r9nrkdkb8muvb1brat74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.akisan98.laktose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249139847120:android:8a88fd31752404257a23d5",
+        "android_client_info": {
+          "package_name": "ml.akisan.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249139847120-5fcvb45e267e3687e3mc6edfobjam5q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.akisan.firebasedemo",
+            "certificate_hash": "e3e359c8236f5aaa1fbaac0ba94c342577abdd39"
+          }
+        },
+        {
+          "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4I0t_TfE3Hhmsro3hqPc1Eez11tEfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249139847120-mj5bthvihu51r9nrkdkb8muvb1brat74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.akisan98.laktose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249139847120:android:14b8e80adb123deb7a23d5",
+        "android_client_info": {
+          "package_name": "ml.akisan.happyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249139847120-gpvlap139h2aed4juafk8qpng2pk18vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.akisan.happyfood",
+            "certificate_hash": "e3e359c8236f5aaa1fbaac0ba94c342577abdd39"
+          }
+        },
+        {
+          "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4I0t_TfE3Hhmsro3hqPc1Eez11tEfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249139847120-mj5bthvihu51r9nrkdkb8muvb1brat74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.akisan98.laktose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249139847120:android:20ac96edbc5dfc527a23d5",
+        "android_client_info": {
+          "package_name": "ml.akisan.kvitto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249139847120-ir0nru15g7pjdtcjm2go4jjj84ravju4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.akisan.kvitto",
+            "certificate_hash": "847a751ec97e7c7dcef8414318a11089faf76d43"
+          }
+        },
+        {
+          "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4I0t_TfE3Hhmsro3hqPc1Eez11tEfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249139847120-mj5bthvihu51r9nrkdkb8muvb1brat74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.akisan98.laktose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249139847120:android:f29539e801bc6cdb7a23d5",
+        "android_client_info": {
+          "package_name": "ml.akisan.laktose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4I0t_TfE3Hhmsro3hqPc1Eez11tEfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249139847120-pjafisbgc9stmkmqq3qt1ngvgi4oog0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249139847120-mj5bthvihu51r9nrkdkb8muvb1brat74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.akisan98.laktose"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
