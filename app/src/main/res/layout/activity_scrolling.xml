@@ -7,11 +7,12 @@
     tools:context=".FoodDetail">
 
     <com.google.android.material.appbar.AppBarLayout
-        android:id="@+id/app_bar"
+        android:id="@+id/item_name"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="400dp"
         android:fitsSystemWindows="true"
-        android:theme="@style/AppTheme.AppBarOverlay">
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:transitionName="item_name">
 
         <com.google.android.material.appbar.CollapsingToolbarLayout
             android:id="@+id/toolbar_layout"
@@ -23,13 +24,14 @@
             app:toolbarId="@+id/toolbar">
 
             <ImageView
-                android:id="@+id/header"
+                android:id="@+id/productImage"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:adjustViewBounds="true"
                 android:fitsSystemWindows="true"
                 android:maxHeight="400dp"
                 android:src="@drawable/tropeline_produkt_fvcw92b8zp"
+                android:transitionName="productImage"
                 app:layout_collapseMode="parallax" />
 
             <androidx.appcompat.widget.Toolbar

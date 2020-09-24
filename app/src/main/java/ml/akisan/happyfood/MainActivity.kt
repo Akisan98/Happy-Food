@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         setQuery(query, FoodItem::class.java)
             .build()
 
-        adapter = ProductAdapter(options, this)
+        adapter = ProductAdapter(options, this, this)
 
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         recyclerView.setHasFixedSize(true)
@@ -46,8 +46,15 @@ class MainActivity : AppCompatActivity() {
         adapter.startListening()
     }
 
-    override fun onStop() {
+
+
+    /*override fun onStop() {
         super.onStop()
+        adapter.stopListening()
+    }*/
+
+    override fun onBackPressed() {
+        super.onBackPressed()
         adapter.stopListening()
     }
 }

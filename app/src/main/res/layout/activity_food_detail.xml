@@ -202,4 +202,7 @@
         app:layout_constraintStart_toEndOf="@+id/gluten"
         app:layout_constraintTop_toBottomOf="@+id/karbohydrat" />
 
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

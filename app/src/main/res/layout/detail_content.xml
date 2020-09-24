@@ -235,21 +235,21 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|right"
             android:layout_margin="16dp"
-
             android:layout_marginStart="16dp"
             android:layout_marginTop="32dp"
             android:layout_marginEnd="16dp"
-            android:layout_marginBottom="32dp"
-            android:text="Read More"
+            android:text="Les Mer"
             android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
+            app:backgroundTint="@color/colorPrimary"
             app:icon="@drawable/ic_baseline_public_24"
             app:iconTint="#FFFFFF"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/laktose2" />
+            app:layout_constraintTop_toBottomOf="@+id/slider"
+            app:rippleColor="@color/colorPrimaryDark"
+            app:strokeColor="@color/colorPrimary" />
 
         <TextView
             android:id="@+id/laktose2"
@@ -274,12 +274,32 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/land" />
 
-        <SeekBar
-            android:id="@+id/seekBar"
-            android:layout_width="295dp"
-            android:layout_height="0dp"
-            app:layout_constraintTop_toBottomOf="@+id/extended_fab"
-            tools:layout_editor_absoluteX="49dp" />
+        <com.github.florent37.androidslidr.Slidr
+            android:id="@+id/slider"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4"
+            app:slidr_region_leftColor="#6200EE"
+            app:slidr_regions_centerText="false">
+
+        </com.github.florent37.androidslidr.Slidr>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="32dp"
+            android:text="Mitt Inntak:"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/laktose2" />
 
         <!-- android:contentDescription="@string/extended_fab_content_desc" -->
 
